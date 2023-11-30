@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shutdown</string>
+    <string name="Shutdown">Shutdown</string>
+    <string name="img_call_power_dialog">Diálogo de llamada de energía</string>
+    <string name="not_performed">Acción no realizada, ¿falta el permiso de accesibilidad?</string>
+    <string name="alert_permission_text">Se requiere el permiso de accesibilidad para emular el gesto de apagado.\nPor favor, habilítelo en la configuración.</string>
+    <string name="alert_permission_title">Permiso</string>
+    <string name="alert_permission_text_API33">Se requiere el permiso de accesibilidad para emular el gesto de apagado.\nPor favor, habilítelo en la sección de configuración restringida.</string>
+    <string name="alert_permission_SETTINGS">CONFIGURACIÓN</string>
+    <string name="alert_permission_cancel">Cancelar</string>
+    <string name="accessibility_description">La aplicación requiere el permiso de accesibilidad para emular los gestos manuales que se utilizan para apagar el teléfono. El permiso no se utilizará para nada más.</string>
+
+</resources>
